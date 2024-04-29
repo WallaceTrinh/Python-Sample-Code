@@ -1,3 +1,13 @@
-COMP 1510 202210
+# COMP 1510's Python Sample Code
 
-Sample Code for Lectures
+- Python Lesson Calendar & V2
+-- Each lesson's description
+
+- Labs & Assignment Instuctions
+-- Detailed instruction of the expected Labs and Assignments
+
+- Lecture PDFs
+-- Week by week's Lectures
+
+- Python Sample Code
+-- Week by week Python examples
